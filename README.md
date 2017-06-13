@@ -132,7 +132,7 @@ Navigate to the Azure portal and click your Web App URL. You will see this in yo
 
 If the Release was successful you will see the sample Java App being displayed.
 
-<img src="content/img16.png" width="400">
+<img src="content/img16.png" width="600">
 
 ---
 If you were unsuccessful verify that your Release Definition was successful in VSTS. Otherwise navigate to the site's Kudu Dashboard [yourwebappname].scm.azurewebsites.net 
@@ -145,4 +145,4 @@ Navigate to **Deployments** and you are able to see the which deployments were s
 
 Another common fix would be to navigate to the **Debug Console** in the Kudu Dashboard and rename your Hello.war file to ROOT.war usually found in this directory - D:\home\site\wwwroot\webapps> 
 
-<img src="content/img19.png" width="600">
+<img src="content/img19.png" width="800">
