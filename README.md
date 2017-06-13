@@ -4,7 +4,7 @@ In this example we will be creating a continuous integration  and continuous dep
 
 ## Deploy and Configure an Azure Web App
 
-first we'll create an Azure Web App for us to depploy our Java Code to later.
+First we'll create an Azure Web App for us to depploy our Java Code to later.
 
 Navigate to the [Azure Portal](portal.azure.com)
 
